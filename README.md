@@ -1,2 +1,2 @@
 # OIBSIP
-Java Development Internahip
+Java Development Internship
