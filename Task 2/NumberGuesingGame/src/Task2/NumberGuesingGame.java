@@ -6,6 +6,9 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Themba Ntimane
+ * 
+ * Project Start-Date : 04/10/2024
+ * Project Finish-Date 12/10/2024
  */
 public class NumberGuesingGame extends javax.swing.JFrame {
 
